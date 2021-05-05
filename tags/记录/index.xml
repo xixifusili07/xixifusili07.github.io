@@ -13,7 +13,7 @@
       <pubDate>Wed, 05 May 2021 21:23:20 +0800</pubDate>
       
       <guid>https://xixifusili07.github.io/posts/%E5%8D%9A%E5%AE%A2%E6%96%B0%E5%BB%BA%E5%AD%A6%E4%B9%A01/</guid>
-      <description>第一步：打开博客文件夹第二步:右键打开命令行，注意命令行的位置 ls cd .. 退出 cd hugo new posts/学车.md ​```英文状态下+回车 框 更新博客步骤： hugo 生成博客</description>
+      <description>第一步：打开博客文件夹第二步:右键打开命令行，注意命令行的位置 ls cd .. 退出 cd hugo new posts/学车.md ​```英文状态下+回车 框 更新博客步骤： hugo 生成博客 cd空格p tab 回车 进入public文件夹 git add . 添加文</description>
     </item>
     
   </channel>
